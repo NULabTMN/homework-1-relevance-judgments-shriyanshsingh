@@ -2652,7 +2652,7 @@
       <result>
         <id>
           https://chroniclingamerica.loc.gov/lccn/sn83045433/1918-03-16/ed-1/seq-1/#words=act+change+Changed+changed+changes+Clock+clock+clocks+Clocks+daylight+DAYLIGHT+Daylight+daylight-saving+HOUR+Hour+hour+Hours+HOURS+hours+law+saving+SAVING+Saving+Standard+standard+time+times</id>
-        <rel></rel>
+        <rel>1</rel>
         <text>DAYLIGHT SAVING TIMl
           3HOURS
           VASTED
@@ -3240,7 +3240,7 @@
       <result>
         <id>
           https://chroniclingamerica.loc.gov/lccn/sn87057262/1918-03-30/ed-1/seq-7/#words=change+changed+changes+clock+CLOCK+clocks+daylight+Hour+hour+hours+saving+savings+TIME+time+timepiece+timepieces</id>
-        <rel></rel>
+        <rel>1</rel>
         <text>TURN THE CLOCK
           AHEAD TONIGHT
           Just Do Thle When You Go to Bed
